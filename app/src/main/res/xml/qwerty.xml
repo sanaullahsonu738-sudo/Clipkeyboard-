@@ -56,4 +56,12 @@
     </Row>
 
     <Row>
-        <Key android:codes="44
+        <Key android:codes="44" android:keyLabel="," android:keyWidth="12%p" android:keyEdgeFlags="left"/>
+        <Key android:codes="32" android:keyLabel="space" android:keyWidth="54%p" android:isRepeatable="false"/>
+        <Key android:codes="46" android:keyLabel="." android:keyWidth="12%p"/>
+        <Key android:codes="-4" android:keyLabel="Enter" android:keyWidth="18%p" android:keyEdgeFlags="right"/>
+    </Row>
+
+</Keyboard>
+    
+        
